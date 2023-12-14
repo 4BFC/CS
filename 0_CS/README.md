@@ -5,7 +5,7 @@
 * 매일 오후 7시에 비대면 Discord로 진행
 
 ## 🙋‍♂️참가 인원
-* 4Bee - <a href="#" class="user_1"> GitHub</a>
+* 4Bee - <a href="https://github.com/4BFC" class="user_1"> GitHub</a>
 * 김관중 - <a href="#" class="user_2">GitHub</a>
 
 ## 🗂️진행방식
